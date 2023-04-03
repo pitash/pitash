@@ -35,5 +35,4 @@
 - 🔭 I’m currently working on Palmal Group of Industries
 - 🌱 I’m currently learning ReactJS
 - 🗿 I have experience with Laravel, JavaScript, Ajax, jQuery it has been more than 2+ years
-- 📫 How to reach me: LinkedIn 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me: [Twitter](https://twitter.com/pitash-kumar) or [Email](mailto:pitashkumar03@gmail.com) or [LinkedIn](https://linkedin.com/pitash-kumar)
