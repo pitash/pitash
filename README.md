@@ -1,7 +1,6 @@
-### Hi 👋 I'm Pitash
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="50%"/>
+  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif" width="30%"/>
 </div>
 
 <div align="center" id="badges">
