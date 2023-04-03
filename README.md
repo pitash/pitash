@@ -10,7 +10,8 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div><br>
+
 
 - 🔭 I’m currently working on Palmal Group of Industries
 - 🌱 I’m currently learning ReactJS
