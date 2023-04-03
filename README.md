@@ -15,6 +15,6 @@
 
 - 🔭 I’m currently working on Palmal Group of Industries
 - 🌱 I’m currently learning ReactJS
-- 🗿 I have experience with Laravel, it has been more than 2+ years
+- 🗿 I have experience with Laravel, JavaScript, Ajax, jQuery it has been more than 2+ years
 - 📫 How to reach me: LinkedIn 
 
