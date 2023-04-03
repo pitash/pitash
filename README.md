@@ -1,23 +1,19 @@
 ### Hi 👋 I'm Pitash
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pitash-kumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-facebook-URL">
+    <img src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 - 🔭 I’m currently working on Palmal Group of Industries
 - 🌱 I’m currently learning ReactJS
 - 🗿 I have experience with Laravel, it has been more than 2+ years
 - 📫 How to reach me: LinkedIn 
 
-
-<!--
-**pitash/pitash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Palmal Group of Industries
-- 🌱 I’m currently learning ReactJS
--🗿  I have experience with Laravel, it has been more than 4+ years
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
