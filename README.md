@@ -54,11 +54,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img width="40" height="40" src="https://github.com/nurkarim/nurkarim/blob/main/PhpStorm_Icon.svg.png" title="PhpStorm" alt="PhpStorm"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
 </div>
 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pitash&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitash&layout=compact&langs_count=8&theme=vision-friendly-dark)](https://github.com/pitash/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pitash&theme=dark)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitash&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_progress=true)](https://github.com/pitash/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
