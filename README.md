@@ -30,9 +30,9 @@
 
 ---
 
+### :man_technologist: About Me :
 
-
-##  👋
+## About Me : 👋
 
 - 🔭 I’m currently working on Palmal Group of Industries
 - 🌱 I’m currently learning ReactJS
