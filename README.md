@@ -32,7 +32,7 @@
 
 
 
-## I'm [Hardik Savani!](https://www.itsolutionstuff.com) 👋
+##  👋
 
 - 🔭 I’m currently working on Palmal Group of Industries
 - 🌱 I’m currently learning ReactJS
