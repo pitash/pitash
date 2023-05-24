@@ -19,11 +19,11 @@
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=pitash&style=flat-square&color=blue" alt=""/>
 </div>
-
+<!-- 
 [![Twitter: HardikSavani19](https://img.shields.io/twitter/follow/HardikSavani19?style=social)](https://twitter.com/HardikSavani19)
 [![Linkedin: savanihd](https://img.shields.io/badge/-savanihd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savanihd/)](https://www.linkedin.com/in/savanihd/)
 [![GitHub savanihd](https://img.shields.io/github/followers/savanihd?label=follow&style=social)](https://github.com/savanihd)
-[![website](https://img.shields.io/badge/Blog-itsolutionstuff.com-2648ff?style=flat-square&logo=google-chrome)](https://www.itsolutionstuff.com)
+[![website](https://img.shields.io/badge/Blog-itsolutionstuff.com-2648ff?style=flat-square&logo=google-chrome)](https://www.itsolutionstuff.com) -->
 
 
 <h1 align="center">
