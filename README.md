@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working on Palmal Group of Industries
 - 🌱 I’m currently learning ReactJS
-- 🗿 I have experience with Laravel, JavaScript, Ajax, jQuery it has been more than 2+ years
+- 🗿 I have experience with [Laravel](http://laravel.com), JavaScript, Ajax, jQuery it has been more than 2+ years
 - 📫 How to reach me: [Twitter](https://twitter.com/pitash-kumar) or [Email](mailto:pitashkumar03@gmail.com) or [LinkedIn](https://linkedin.com/pitash-kumar)
 
 ---
