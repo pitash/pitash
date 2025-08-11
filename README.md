@@ -45,7 +45,7 @@
 
 ## :man_technologist: About Me : 👋
 
-- 🔭 I’m currently working on Paragon Group of Industries
+- 🔭 I’m currently working on Paragon Group
 - 🌱 I’m currently learning ReactJS
 - 🗿 I have experience with [Laravel](http://laravel.com), Node, JavaScript, Ajax, jQuery it has been more than 3+ years
 - 📫 How to reach me: [Twitter](https://twitter.com/pitash-kumar) or [Email](mailto:pitashkumar03@gmail.com) or [LinkedIn](https://linkedin.com/pitash-kumar)
